@@ -1,0 +1,32 @@
+[
+    {
+    "foto":"https://br.web.img3.acsta.net/c_310_420/pictures/15/03/10/19/40/135848.jpg",
+    "nome":"Friday, 13th",
+    "ano": 1980,
+    "genero": "Terror"
+    },
+
+    {
+        "foto":"https://br.web.img2.acsta.net/c_310_420/pictures/21/08/02/19/37/2769156.jpg",
+        "nome":"Space Jam - A New Legacy",
+        "ano": 2021,
+        "genero": "Comédia"
+    },
+        
+    {
+        "foto":"https://cinemaemcena.com.br/uploads/criticas_old/interstellar_poster5.jpg",
+        "nome":"Interestelar",
+        "ano": 2014,
+        "genero": "Ficção Científica"
+    },
+
+    {
+        "foto":"https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/02/62/20126074.jpg",
+        "nome":"Coach Carter - Treino Para A Vida",
+        "ano": 2005,
+        "genero": "Drama"
+
+       
+    }  
+
+]
